@@ -2,4 +2,4 @@
 
 Foundations - Landing Page Assignment
 
-https://user-images.githubusercontent.com/34368352/228910601-00157e8d-92e6-425e-aa58-0ed4fb2be04a.png
+![TheOdingProjectLandingPage](https://user-images.githubusercontent.com/34368352/228911069-59d000aa-2392-477a-a1c3-f11337a95322.jpg)

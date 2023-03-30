@@ -2,4 +2,4 @@
 
 Foundations - Landing Page Assignment
 
-[127 0 0 1_5500_index html](https://user-images.githubusercontent.com/34368352/228910601-00157e8d-92e6-425e-aa58-0ed4fb2be04a.png)
+https://user-images.githubusercontent.com/34368352/228910601-00157e8d-92e6-425e-aa58-0ed4fb2be04a.png

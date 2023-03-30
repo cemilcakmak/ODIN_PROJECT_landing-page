@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+* {
+    font-family: 'Dosis', sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style-type: none;
+}
+ul {
+    display: flex;
+}
+button {
+    height: 24px;
+    width: 96px;
+    background-color: #3882F6;
+    border-radius: 8px;
+    text-align: center;
+}
+.hero,
+.content,
+.quote,
+.banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.quote {
+    background-color: #E5E7EB;
+}
+.quote-box {
+    padding-left: 20%;
+    padding-right: 20%
+}
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+}
+.quote-signature {
+    font-size: 24px;
+    font-weight: 900;
+    padding-right: 50px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo,
+.navigation {
+    width: 80%;
+    margin: 0 auto;
+}
+.bg-dark {
+    background-color: #1F2937;
+}
+.text-color {
+    color: #F9FAF9;
+}
+.subtext {
+    font-size: 18px;
+    font-weight: 100;
+    color: #E5E7EB
+}
+.pad-btm-8 {
+    padding-bottom: 8px;
+}
+.navigation > ul {
+    gap: 20px;
+    justify-content: flex-end;
+}
+.card > div {
+    text-align: center;
+    width: 150px;
+    margin: 0 auto;
+}
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero-left-panel {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.text-hero-main {
+    font-size: 48px;
+    font-weight: 900;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+.card > .subtext {
+    color: #1F2937;
+}
+.quote-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.banner-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 8px;
+    height: 100px;
+}
+.footer{
+    text-align: center;
+    height: 30px;
+    vertical-align: middle;
+    padding-top: 15px;
+    font-size: 12px;
+}
+.hero-img {
+    width: 400px;
+    height: auto;
+}
+.frame {
+    width: 200px;
+    height: auto;
+}
+.header,
+.hero,
+.content,
+.quote,
+.banner,
+.footer {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0 auto;
+}
+
